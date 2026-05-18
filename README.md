@@ -25,19 +25,23 @@ to uncover revenue patterns, player behavior, and platform performance.
 ## Dashboard Preview
 
 ### Revenue by Game Genre
-<img width="463" height="517" alt="Screenshot SQL result 1" src="https://github.com/user-attachments/assets/871c8221-cc37-4c09-8766-22ad0c894d3f" />
+<img width="1989" height="1136" alt="Picture2" src="https://github.com/user-attachments/assets/178d320a-70ae-46e2-bcf9-ce7e488ed16f" />
+
 
 
 ### Player Count by Device
-<img width="427" height="125" alt="Screenshot SQL result 5" src="https://github.com/user-attachments/assets/956f25ac-7dce-430f-82ce-c961692b0c50" />
+<img width="1775" height="1001" alt="Picture3" src="https://github.com/user-attachments/assets/d8a9c263-dc39-48e2-af4f-35a3649f56f8" />
+
 
 
 ### Revenue by Country
-<img width="437" height="341" alt="Screenshot SQL result 2" src="https://github.com/user-attachments/assets/034c4695-fb65-4fee-bdb0-d796d63f454c" />
+<img width="2728" height="2043" alt="Picture1" src="https://github.com/user-attachments/assets/b8834128-84df-4153-bc47-1fd1f8c95115" />
+
 
 
 ### Average Spending by Age Group
-<img width="563" height="157" alt="Screenshot SQL result 3" src="https://github.com/user-attachments/assets/b064ec03-e3cd-45d1-add1-cd9bb1e06642" />
+<img width="3974" height="1600" alt="Picture4" src="https://github.com/user-attachments/assets/4c8ec377-a7aa-4ea3-9a84-be1c9820d6cc" />
+
 
 
 ### Top 10 Spenders
