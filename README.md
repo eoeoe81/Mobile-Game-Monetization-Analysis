@@ -19,8 +19,8 @@ to uncover revenue patterns, player behavior, and platform performance.
 ## Key Insights
 1. Battle Royale dominates revenue among all genres
 2. Android leads platform with 59% of total players
-3. Top spenders are mostly from Afghaninstan playing Strategy
-4. Age group Adult shows highest average spending
+3. Top spenders are mostly from Afghanistan playing Strategy
+4. Age group 31-40 (Adult) shows highest average spending
 
 ## Dashboard Preview
 
