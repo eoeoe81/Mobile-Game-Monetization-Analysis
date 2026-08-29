@@ -1,52 +1,64 @@
-# Mobile-Game-Monetization-Analysis
-End-to-end analysis of 3,000+ mobile game transactions using SQL and Excel
+# Mobile Game Monetization Analytics
 
 ## Project Overview
-End-to-end analysis of 3,000+ mobile game in-app purchase transactions 
-to uncover revenue patterns, player behavior, and platform performance.
+Mobile game monetization data analysis to identify revenue streams and optimize monetization strategies, using SQL (SQLite) for data aggregation and Excel for visualization.
 
-## Business Questions
-- Which game genre generates the highest revenue?
-- Which devices dominate the player base?
-- Which countries contribute most to revenue?
-- How does spending vary across age groups?
-- Who are the top spenders and what do they play?
-
-## Tools Used
-- **Excel** — Data cleaning (Power Query) + Dashboard
-- **SQL (MySQL)** — Data analysis & querying
+## Files
+- `mobile_game_inapp_purchases.csv` — raw data (3,024 users)
+- `game_analytics_queries.sql` — SQL queries
+- `query1-7_*.csv` — query results
+- `Dashboard_Game_Analytics.xlsx` — pivot tables + charts
 
 ## Key Insights
-1. Battle Royale dominates revenue among all genres
-2. Android leads platform with 59% of total players
-3. Top spenders are mostly from Afghanistan playing Strategy
-4. Age group 31-40 (Adult) shows highest average spending
 
-## Dashboard Preview
+**User Segmentation**
+- Whale: 2.2% of paying users → 58.3% of revenue
+- Dolphin: 13.7% of users → 33.2% of revenue
+- Minnow: 84.1% of users → 8.5% of revenue
 
-### Revenue by Game Genre
-<img width="1989" height="1136" alt="Picture2" src="https://github.com/user-attachments/assets/178d320a-70ae-46e2-bcf9-ce7e488ed16f" />
+**Geographic**
+- India: highest volume (237 players, $2.6M revenue), mid ARPU (~$10,970)
+- Afghanistan: highest ARPU (~$17,684) despite low volume (91 players)
+- USA and India have near-identical ARPU — no large premium-vs-mass gap between them
 
+**Platform**
+- Android: highest total revenue ($13.1M) and player count (1,702)
+- iOS: fewer players (1,203) but higher avg revenue per transaction ($9,742 vs $7,696)
 
+**Genre**
+- Battle Royale: highest revenue ($2.6M) and ARPU ($14,035)
+- Racing: close second ($2.56M)
+- Simulation/Sandbox/Casual: high volume, low ARPU — better fit for ad monetization
 
-### Player Count by Device
-<img width="1775" height="1001" alt="Picture3" src="https://github.com/user-attachments/assets/d8a9c263-dc39-48e2-af4f-35a3649f56f8" />
+**Monthly Trend**
+- Revenue peaks in April ($4.7M) and July ($4.38M)
+- August is lowest ($1.44M) — likely a partial-month data cutoff, not a real drop
 
+## Business Recommendations
+1. Whale users → VIP program, priority support
+2. India → volume/ads-driven strategy
+3. High-ARPU markets (e.g. Afghanistan) → premium IAP, avoid price cuts
+4. iOS → premium features first; Android → accessibility and reach
+5. Battle Royale/Racing/Strategy → IAP-heavy; Casual/Simulation/Sandbox → ad-heavy
 
+## How to Run
+```bash
+sqlite3 game_analytics.db
+.mode csv
+.import mobile_game_inapp_purchases.csv data_mentah_game
+sqlite3 game_analytics.db < game_analytics_queries.sql
+```
 
-### Revenue by Country
-<img width="2728" height="2043" alt="Picture1" src="https://github.com/user-attachments/assets/b8834128-84df-4153-bc47-1fd1f8c95115" />
+## Tools
+SQLite · Excel (Pivot Tables & Charts) · Markdown
 
+## Limitations
+- Synthetic/Kaggle dataset, not real production data
+- August data likely incomplete (partial month)
+- "Unknown" device category (59 players) too small to base strategy on
 
+## About
 
-### Average Spending by Age Group
-<img width="3974" height="1600" alt="Picture4" src="https://github.com/user-attachments/assets/4c8ec377-a7aa-4ea3-9a84-be1c9820d6cc" />
-
-
-
-### Top 10 Spenders
-<img width="753" height="346" alt="Screenshot SQL result 4" src="https://github.com/user-attachments/assets/0d733b2c-01ed-4461-9458-8728b4a12349" />
-
-
-## Dataset
-Source: Kaggle — Mobile Game In-App Purchases 2025
+**Jessica Leo**
+Junior Data Analyst | Information Systems Student
+[LinkedIn](https://www.linkedin.com/in/jessicaleooo)
