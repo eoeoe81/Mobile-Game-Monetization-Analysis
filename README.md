@@ -2,7 +2,7 @@
 
 ## Project Overview
 Mobile game monetization data analysis to identify revenue streams and optimize monetization strategies, using SQL (SQLite) for data aggregation and Excel for visualization.
-**[View Full Presentation (PDF)](Mobile_Game_Monetization_Analytics.pdf)**
+**[View Full Presentation (PDF)](Report.pdf)**
 
 ## Files
 - `Mobile Game Monetization Analytics.pdf` — Full Presentation
