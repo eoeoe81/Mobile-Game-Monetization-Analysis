@@ -2,6 +2,7 @@
 
 ## Project Overview
 Mobile game monetization data analysis to identify revenue streams and optimize monetization strategies, using SQL (SQLite) for data aggregation and Excel for visualization.
+[Mobile Game Monetization Report](Mobile Game Monetization Analytics.pdf)
 
 ## Files
 - `mobile_game_inapp_purchases.csv` — raw data (3,024 users) from kaggle, [Mobile Game In-App Purchases Dataset 2025](https://www.kaggle.com/datasets/pratyushpuri/mobile-game-in-app-purchases-dataset-2025)
