@@ -1,0 +1,49 @@
+GameGenre,SpendingSegment,Total_Players,Total_Revenue,ARPU_Per_Genre
+Action RPG,Dolphin,23,480891,20908.3
+Action RPG,Whale,3,479282,159760.67
+Action RPG,Minnow,153,137998,901.95
+Adventure,Dolphin,35,788235,22521.0
+Adventure,Whale,1,493028,493028.0
+Adventure,Minnow,123,99836,811.67
+Battle Royale,Whale,7,1917777,273968.14
+Battle Royale,Dolphin,24,552832,23034.67
+Battle Royale,Minnow,144,125849,873.95
+Card,Whale,3,670539,223513.0
+Card,Dolphin,20,414255,20712.75
+Card,Minnow,166,152256,917.2
+Casual,Whale,4,609268,152317.0
+Casual,Dolphin,21,434434,20687.33
+Casual,Minnow,174,172568,991.77
+Fighting,Whale,4,1257931,314482.75
+Fighting,Dolphin,32,755402,23606.31
+Fighting,Minnow,134,124454,928.76
+MMORPG,Whale,3,1012316,337438.67
+MMORPG,Dolphin,28,649532,23197.57
+MMORPG,Minnow,152,136163,895.81
+MOBA,Whale,5,1415355,283071.0
+MOBA,Dolphin,21,422592,20123.43
+MOBA,Minnow,144,134601,934.73
+Puzzle,Whale,3,842556,280852.0
+Puzzle,Dolphin,20,334983,16749.15
+Puzzle,Minnow,166,161374,972.13
+Racing,Whale,7,1736544,248077.71
+Racing,Dolphin,29,678200,23386.21
+Racing,Minnow,145,142172,980.5
+Role Playing,Whale,4,758178,189544.5
+Role Playing,Dolphin,22,481348,21879.45
+Role Playing,Minnow,156,127967,820.3
+Sandbox,Dolphin,28,632537,22590.61
+Sandbox,Whale,3,361024,120341.33
+Sandbox,Minnow,173,153973,890.02
+Simulation,Whale,4,668094,167023.5
+Simulation,Dolphin,27,631454,23387.19
+Simulation,Minnow,175,165567,946.1
+Sports,Whale,3,730984,243661.33
+Sports,Dolphin,28,686348,24512.43
+Sports,Minnow,176,154045,875.26
+Strategy,Whale,8,1713033,214129.13
+Strategy,Dolphin,21,402139,19149.48
+Strategy,Minnow,156,144702,927.58
+Unknown,Whale,1,338223,338223.0
+Unknown,Dolphin,9,198073,22008.11
+Unknown,Minnow,46,40923,889.63

@@ -1,0 +1,81 @@
+Country,SpendingSegment,Total_Users,Total_Revenue,ARPU
+India,Minnow,189,180276,953.84
+Netherlands,Minnow,98,96568,985.39
+Switzerland,Minnow,98,78910,805.2
+Australia,Minnow,95,77710,818.0
+Germany,Minnow,90,76597,851.08
+Saudi Arabia,Minnow,90,88890,987.67
+UK,Minnow,90,86797,964.41
+Italy,Minnow,88,86396,981.77
+Japan,Minnow,87,71427,821.0
+Denmark,Minnow,85,85929,1010.93
+Iran,Minnow,84,78652,936.33
+Norway,Minnow,84,78158,930.45
+Brazil,Minnow,83,70183,845.58
+Mexico,Minnow,83,76211,918.2
+Egypt,Minnow,82,73256,893.37
+South Korea,Minnow,81,69429,857.15
+USA,Minnow,81,79432,980.64
+Canada,Minnow,79,78793,997.38
+China,Minnow,79,57613,729.28
+Spain,Minnow,79,71675,907.28
+Sweden,Minnow,78,72373,927.86
+France,Minnow,75,65668,875.57
+Bangladesh,Minnow,73,72624,994.85
+Russia,Minnow,70,63309,904.41
+Turkey,Minnow,70,61867,883.81
+Afghanistan,Minnow,69,56823,823.52
+Sri Lanka,Minnow,69,64283,931.64
+Unknown,Minnow,54,54599,1011.09
+India,Dolphin,34,795176,23387.53
+Bangladesh,Dolphin,21,429054,20431.14
+Saudi Arabia,Dolphin,20,489792,24489.6
+Sweden,Dolphin,18,398336,22129.78
+Afghanistan,Dolphin,17,532649,31332.29
+Norway,Dolphin,17,278045,16355.59
+Mexico,Dolphin,16,390640,24415.0
+Japan,Dolphin,15,414075,27605.0
+Brazil,Dolphin,14,249272,17805.14
+Russia,Dolphin,14,261666,18690.43
+USA,Dolphin,14,326433,23316.64
+Sri Lanka,Dolphin,13,237995,18307.31
+Switzerland,Dolphin,13,285296,21945.85
+Australia,Dolphin,12,290839,24236.58
+Egypt,Dolphin,12,323279,26939.92
+Germany,Dolphin,12,275898,22991.5
+Iran,Dolphin,12,245641,20470.08
+South Korea,Dolphin,12,198714,16559.5
+Spain,Dolphin,12,297986,24832.17
+Turkey,Dolphin,12,194892,16241.0
+UK,Dolphin,12,208642,17386.83
+China,Dolphin,11,318812,28982.91
+Denmark,Dolphin,11,250554,22777.64
+France,Dolphin,11,168590,15326.36
+Italy,Dolphin,11,225268,20478.91
+Canada,Dolphin,10,234179,23417.9
+India,Whale,7,1624493,232070.43
+Netherlands,Dolphin,7,117909,16844.14
+Germany,Whale,5,934421,186884.2
+South Korea,Whale,5,1128726,225745.2
+Unknown,Dolphin,5,103623,20724.6
+Afghanistan,Whale,4,1019857,254964.25
+Bangladesh,Whale,4,868896,217224.0
+Iran,Whale,4,805037,201259.25
+Italy,Whale,4,1033635,258408.75
+Canada,Whale,3,1111829,370609.67
+Denmark,Whale,3,772600,257533.33
+Sri Lanka,Whale,3,793261,264420.33
+Japan,Whale,2,736748,368374.0
+Mexico,Whale,2,303190,151595.0
+Norway,Whale,2,344364,172182.0
+Russia,Whale,2,899578,449789.0
+Turkey,Whale,2,404975,202487.5
+UK,Whale,2,509358,254679.0
+USA,Whale,2,667968,333984.0
+Brazil,Whale,1,20040,20040.0
+China,Whale,1,262084,262084.0
+Egypt,Whale,1,214059,214059.0
+France,Whale,1,100568,100568.0
+Netherlands,Whale,1,188039,188039.0
+Spain,Whale,1,44563,44563.0
+Switzerland,Whale,1,215843,215843.0
